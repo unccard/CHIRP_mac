@@ -1,0 +1,10 @@
+Found 4 files using search string ./Recordings/*
+Error using close (line 116)
+Invalid figure handle.
+
+Error in CHMITE_Record (line 27)
+
+
+
+MATLAB:close:InvalidFigureHandle
+No eval file for listener slockhar
