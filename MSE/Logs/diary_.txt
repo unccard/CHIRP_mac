@@ -1,0 +1,2244 @@
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 1 channels Playback: Audio subsystem is Core Audio, Audio device name is Shure Digital
+PTB-INFO: Real samplerate 48000.000000 Hz. Input latency 0.000000 msecs, Output latency 1.395833 msecs.
+PTB-INFO: New audio device with handle 1 opened as PortAudio stream:
+PTB-INFO: For 2 channels Capture: Audio subsystem is Core Audio, Audio device name is Shure Digital
+PTB-INFO: Real samplerate 48000.000000 Hz. Input latency 2.312500 msecs, Output latency 0.000000 msecs.
+
+num_Lines =
+
+    59
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a breath, and from count from 1 to 20"'
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Take a breath, and from count from 1 to 20"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and say ah for as long and a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Take a deep breath, and say ah for as long and a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat puh-puh-puh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+Warning: Data clipped when writing file.
+[> In audiowrite>clipInputData at 389
+  In audiowrite at 167
+  In MSE_Controller_Per_Run at 273
+  In MSE_Record at 36] 
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat tuh-tuh-tuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat  kuh-kuh-kuh for ...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat puh-tuh-kuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Take a deep breath, and repeat puh-tuh-kuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'gingerbread'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: 'gingerbread'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'volcano'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'harmonica'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'stethoscope'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: 'stethoscope'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'spaghetti'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'constitution'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word artillery five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word impossibility five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word catastrophe five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word rhinoceros five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'peep'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: 'peep'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'bib'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'nine'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'tot'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'dad'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'mom'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'kick'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'gag'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'fife'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: 'fife'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'sis'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zoos'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: 'zoos'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'church'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'lull'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'roar'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'shush'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'judge'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'thick'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'thicker'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'thickening'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'jab'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'jabber'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'jabbering'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zip'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zipper'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zippering'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'flat'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'flatter'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'flattering'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Please put the groceries in the refrigerator."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Please put the groceries in the refrigerator."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Arthur was an oozy, oily sneak."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Arthur was an oozy, oily sneak."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Arthur was an oozy, oily sneak."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"In the summer they sell vegetables."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"The shipwreck washed up on the shore."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"The valuable watch was missing."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Now you will hear some words that are not real w...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Now you will hear some words that are not real w...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'pelter'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'cleast'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'gaffic'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'slurch'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'lerman'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'drange'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'truggle'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'sprawn'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP002B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'stirple'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+PTB-INFO: Using specially modified PortAudio engine, based on offical version: PortAudio V19-devel WITH-DIM
+PsychPortAudio initialized. Will use CoreAudio for audio.
+PTB-INFO: New audio device with handle 0 opened as PortAudio stream:
+PTB-INFO: For 1 channels Playback: Audio subsystem is Core Audio, Audio device name is Shure Digital
+PTB-INFO: Real samplerate 48000.000000 Hz. Input latency 0.000000 msecs, Output latency 1.395833 msecs.
+PTB-INFO: New audio device with handle 1 opened as PortAudio stream:
+PTB-INFO: For 2 channels Capture: Audio subsystem is Core Audio, Audio device name is Shure Digital
+PTB-INFO: Real samplerate 48000.000000 Hz. Input latency 2.312500 msecs, Output latency 0.000000 msecs.
+
+num_Lines =
+
+    59
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a breath, and from count from 1 to 20"'
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Take a breath, and from count from 1 to 20"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and say ah for as long and a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+Warning: Data clipped when writing file.
+[> In audiowrite>clipInputData at 389
+  In audiowrite at 167
+  In MSE_Controller_Per_Run at 273
+  In MSE_Record at 36] 
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat puh-puh-puh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+Warning: Data clipped when writing file.
+[> In audiowrite>clipInputData at 389
+  In audiowrite at 167
+  In MSE_Controller_Per_Run at 273
+  In MSE_Record at 36] 
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat tuh-tuh-tuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Take a deep breath, and repeat tuh-tuh-tuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat  kuh-kuh-kuh for ...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Take a deep breath, and repeat puh-tuh-kuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Take a deep breath, and repeat puh-tuh-kuh for a...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+Warning: Data clipped when writing file.
+[> In audiowrite>clipInputData at 389
+  In audiowrite at 167
+  In MSE_Controller_Per_Run at 273
+  In MSE_Record at 36] 
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'gingerbread'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: 'gingerbread'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'volcano'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'harmonica'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'stethoscope'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'spaghetti'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'constitution'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word artillery five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Repeat the word artillery five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word impossibility five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word catastrophe five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Repeat the word rhinoceros five times"'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'peep'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'bib'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'nine'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'tot'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'dad'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'mom'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'kick'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'gag'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'fife'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'sis'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zoos'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'church'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'lull'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'roar'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'shush'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'judge'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'thick'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'thicker'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'thickening'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'jab'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'jabber'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'jabbering'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zip'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zipper'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'zippering'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'flat'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'flatter'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'flattering'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Please put the groceries in the refrigerator."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Please put the groceries in the refrigerator."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Arthur was an oozy, oily sneak."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"In the summer they sell vegetables."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"The shipwreck washed up on the shore."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"The valuable watch was missing."'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: '"Now you will hear some words that are not real w...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'REPEAT'
+       word_To_Display: '"Now you will hear some words that are not real w...'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'pelter'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'cleast'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'gaffic'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'slurch'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'lerman'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'drange'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'truggle'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'sprawn'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+
+USER_DATA = 
+
+            subject_ID: 'TAP030B'
+           record_Auto: 1
+    record_After_Token: 0
+                action: 'PROCEED'
+       word_To_Display: 'stirple'
+      image_To_Display: ''
+
+
+ans =
+
+     ''
+
+
+Error using close (line 116)
+Invalid figure handle.
+
+Error in MSE_Record (line 24)
+
+
+
+MATLAB:close:InvalidFigureHandle
